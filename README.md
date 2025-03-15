@@ -17,12 +17,8 @@ Proyek ini adalah halaman web sederhana yang dibuat untuk Praktikum PDW 2025. Ha
 
 Halaman web ini menampilkan:
 
-- Judul yang terpusat dengan tulisan "Praktikum PDW 2025".
+- Judul dengan tulisan "Praktikum PDW 2025".
 - Gambar sapi dengan deskripsi di paragraf di bawahnya.
-- Footer yang mencakup informasi hak cipta.
+- Footer.
 
 Desainnya sederhana dan responsif, memastikan bahwa konten terlihat baik di berbagai perangkat.
-
-## Penggunaan
-
-Untuk melihat halaman web, buka file `index.html` di browser web.
