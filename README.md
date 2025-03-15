@@ -18,17 +18,18 @@ Proyek ini adalah halaman web sederhana yang dibuat untuk Praktikum PDW 2025. Ha
 Halaman web ini menampilkan:
 
 <<<<<<< HEAD
-- Judul yang terpusat dengan tulisan "Praktikum PDW 2025".
+- Judul yang terpusat dengan tulisan "Andhika Prima Hutama".
 - Gambar dengan informasi pribadi di bawahnya.
 =======
-- Judul dengan tulisan "Praktikum PDW 2025".
-- Gambar sapi dengan deskripsi di paragraf di bawahnya.
+- Judul dengan tulisan "Andhika Prima Hutama.
+- Gambar Saya dengan deskripsi di paragraf di bawahnya.
 - Footer.
 >>>>>>> 7cf58071260a665a310c72b11e121212708d26bd
 
 Desainnya sederhana dan responsif, memastikan bahwa konten terlihat baik di berbagai perangkat.
 
 ## Hasil Website
-![Screenshot 2025-03-15 161531](https://github.com/user-attachments/assets/9b56ba89-88b2-4b00-98af-14356750629e)
+![Screenshot 2025-03-15 203736](https://github.com/user-attachments/assets/f34c50ef-2fc6-4a40-814b-48e5b24ae96b)
+
 
 
