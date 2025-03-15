@@ -7,7 +7,7 @@ Proyek ini adalah halaman web sederhana yang dibuat untuk Praktikum PDW 2025. Ha
 - **index.html**:
 
   - Ini adalah file HTML utama yang berisi struktur halaman web.
-  - Termasuk judul, gambar sapi, dan paragraf yang menjelaskan tentang sapi.
+  - Termasuk judul, gambar, dan daftar informasi pribadi.
 
 - **style.css**:
   - File ini berisi gaya untuk elemen HTML.
@@ -18,8 +18,7 @@ Proyek ini adalah halaman web sederhana yang dibuat untuk Praktikum PDW 2025. Ha
 Halaman web ini menampilkan:
 
 - Judul yang terpusat dengan tulisan "Praktikum PDW 2025".
-- Gambar sapi dengan deskripsi di paragraf di bawahnya.
-- Footer yang mencakup informasi hak cipta.
+- Gambar dengan informasi pribadi di bawahnya.
 
 Desainnya sederhana dan responsif, memastikan bahwa konten terlihat baik di berbagai perangkat.
 

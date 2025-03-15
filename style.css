@@ -31,6 +31,10 @@ p {
   border-radius: 5px;
 }
 
+ul {
+  text-align: center; /* Centering the list */
+}
+
 footer {
   margin-top: 40px;
   text-align: center;
