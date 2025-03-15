@@ -27,7 +27,9 @@ Halaman web ini menampilkan:
 Desainnya sederhana dan responsif, memastikan bahwa konten terlihat baik di berbagai perangkat.
 
 ## Hasil Website
-![Screenshot 2025-03-15 203736](https://github.com/user-attachments/assets/f34c50ef-2fc6-4a40-814b-48e5b24ae96b)
+![Screenshot 2025-03-15 210942](https://github.com/user-attachments/assets/99355fc7-7bde-462b-80e9-6543e2e1b37b)
+
+
 
 
 
