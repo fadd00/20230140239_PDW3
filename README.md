@@ -1,4 +1,4 @@
-# Praktikum PDW 2025
+# Praktikum PDW 3
 
 Proyek ini adalah halaman web sederhana yang dibuat untuk Praktikum PDW 2025. Halaman ini menunjukkan struktur dasar HTML dan CSS.
 
