@@ -19,7 +19,6 @@ Halaman web ini menampilkan:
 
 - Judul yang terpusat dengan tulisan "Andhika Prima Hutama".
 - Gambar dengan informasi pribadi di bawahnya.
-=======
 - Judul dengan tulisan "Andhika Prima Hutama.
 - Gambar Saya dengan deskripsi di paragraf di bawahnya.
 - Footer.
